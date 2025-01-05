@@ -16,10 +16,10 @@ I'm constantly evolving and improving my skills in software development. If you'
 - 💼 [LinkedIn Profile](#)
 - 💻 [GitHub Profile](https://github.com/SilentCoder-HI)
 
-### 🏳️‍🌈 Pronouns: [Your Pronouns]
+### 👨‍💻 Pronouns: He/Him
 
 ### 🎉 Fun Fact:
-[Insert something interesting or personal here, like a hobby or favorite technology.]
+"When I’m not coding, I’m probably exploring New York City through GTA 4—it’s my favorite virtual rendition of the city. The detailed streets and atmosphere always remind me of why I love this real-world city so much!"
 
 ---
 
