@@ -36,6 +36,12 @@ I'm constantly evolving and improving my skills in software development. If you'
 
 ---
 
+# 🖥 GitHub Streaks
+
+![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=SilentCoder-HI&theme=radical)
+
+---
+
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -44,4 +50,3 @@ I'm constantly evolving and improving my skills in software development. If you'
 [![](https://visitcount.itsvg.in/api?id=SilentCoder-HI&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
