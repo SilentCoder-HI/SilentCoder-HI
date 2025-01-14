@@ -36,10 +36,12 @@ I'm constantly evolving and improving my skills in software development. If you'
 
 ---
 
-# 🖥 GitHub Streaks
+### GitHub Streak:  
 
 ![GitHub Streaks](https://github-readme-streak-stats.herokuapp.com/?user=SilentCoder-HI&theme=radical)
+## 📊 GitHub Stats:  
 
+(https://github-readme-stats.vercel.app/api?username=SilentCoder-HI&show_icons=true&count_private=true&theme=radical&hide_title=true&hide=prs&border_radius=10&bg_color=00000000)
 ---
 
 ### ✍️ Random Dev Quote:
