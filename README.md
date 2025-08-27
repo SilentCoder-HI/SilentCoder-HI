@@ -18,9 +18,6 @@ I'm constantly evolving and improving my skills in software development. If you'
 
 ### 👨‍💻 Pronouns: He/Him
 
-### 🎉 Fun Fact:
-"When I’m not coding, I’m probably exploring New York City through GTA 4—it’s my favorite virtual rendition of the city. The detailed streets and atmosphere always remind me of why I love this real-world city so much!"
-
 ---
 
 # 💻 Tech Stack
