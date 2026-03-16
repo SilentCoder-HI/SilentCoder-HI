@@ -51,8 +51,6 @@ I'm constantly evolving and improving my skills in software development. If you'
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SilentCoder-HI&show_icons=true&theme=radical&border_radius=10&bg_color=00000000)
 
-![GitHub Stats](https://nirzak-streak-stats.vercel.app/?user=SilentCoder-HI&theme=dark&hide_border=false)<br/>
-
 ---
 
 ### ✍️ Random Dev Quote:
